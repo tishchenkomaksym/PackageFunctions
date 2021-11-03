@@ -1,4 +1,4 @@
-module github.com/tishchenkomaksym/packagefunctions
+module github.com/tishchenkomaksym/Packagefunctions
 
 
 go 1.17
